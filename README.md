@@ -1,2 +1,2 @@
 # dios-yayin
-Kitaplar,bilgiler vb.
+Kitaplar,bilgiler vb. bulunmaktadır
