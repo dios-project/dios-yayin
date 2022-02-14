@@ -1,0 +1,29 @@
+Protokol Betiği
+
+<Dios Bilgisi>
+sınıf: Dios Yayını
+Konu: Protokol betiği
+Tür: Çalışma mantığı
+
+Satır Yorumlayıcısı: Prob
+Satır komutları: Protokol Betiği satır işleyicisi
+<Dios Bilgisi>
+
+
+Protokol Betiği
+
+1) Protokol dosyası açılır.
+
+2) Protokol Protokol Betiği Satır İşleyicisi tarafından okunur. 
+
+3) Protokol Dosyası Prob Satır işleyicisine aktarılır.
+
+4) Protokol tamamlanır.
+
+
+
+Örnek Protokol
+
+cmd: mkdir test
+cmd: cd test
+echo:$dir
